@@ -28,10 +28,5 @@ Ao adicionar ou listar alunos, você verá diálogos interativos para inserir ou
 ### Pré-requisitos
 
 - Python 3.x
-- Biblioteca Tkinter (já incluída na maioria das distribuições Python)
+- Biblioteca Tkinter (já inclusa na maioria das distribuições Python)
 
-### Instruções
-
-1. Clone o repositório para sua máquina local:
-   ```bash
-   git clone https://github.com/seu-usuario/sistema-cadastro-alunos.git
